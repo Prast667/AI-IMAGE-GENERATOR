@@ -35,7 +35,7 @@ cd AI-Image-Generator
 2. Install Miniforge
 Download and install Miniforge for your operating system.
 
-3. Create a New Environment & Go Inside the file AI-IMAGE-GENERATOR &
+3. Create a New Environment & Go Inside the file AI-IMAGE-GENERATOR in MiniForge Terminal
 Create a clean environment for your AI project:
 conda create -n sd-env python=3.10
 
@@ -58,7 +58,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install diffusers transformers accelerate safetensors
 
 If a model requires authentication:
-huggingface-cli login #And Enter your Huggingface token
+huggingface-cli login #Make HuggingFace Account And Enter your Huggingface token in https://huggingface.co/settings/tokens
 
 7. Install Streamlit
 pip install streamlit
