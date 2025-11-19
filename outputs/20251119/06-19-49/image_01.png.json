@@ -1,0 +1,16 @@
+{
+  "prompt": "a futuristic city at sunset, ultra-detailed",
+  "full_prompt": "a futuristic city at sunset, ultra-detailed",
+  "negative_prompt": "lowres, blurry, bad anatomy",
+  "style": "",
+  "guidance_scale": 7.5,
+  "num_inference_steps": 30,
+  "seed": null,
+  "model_id": "dreamlike-art/dreamlike-photoreal-2.0",
+  "generated_at": "2025-11-18T23:20:09.770630Z",
+  "format": "PNG",
+  "index": 1,
+  "filename": "image_01.png",
+  "path": "outputs\\20251119\\06-19-49\\image_01.png",
+  "saved_at": "2025-11-18T23:20:09.845701Z"
+}

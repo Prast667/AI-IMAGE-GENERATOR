@@ -1,0 +1,22 @@
+{
+  "run_id": "23e39f6c-9e75-47db-8477-85f4507c7691",
+  "model_id": "runwayml/stable-diffusion-v1-5",
+  "prompt": "a futuristic city at sunset, ultra-detailed",
+  "full_prompt": "a futuristic city at sunset, ultra-detailed",
+  "negative_prompt": "lowres, blurry, bad anatomy",
+  "style": "",
+  "guidance_scale": 7.5,
+  "num_inference_steps": 30,
+  "seed": null,
+  "created_at": "2025-11-18T22:59:47.607802Z",
+  "device": "cuda",
+  "images": [
+    {
+      "index": 1,
+      "filename": "image_01.png",
+      "path": "outputs\\20251119\\05-59-47\\image_01.png",
+      "meta_path": "outputs\\20251119\\05-59-47\\image_01.png.json",
+      "elapsed": 7.228702399999747
+    }
+  ]
+}

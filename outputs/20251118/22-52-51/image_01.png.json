@@ -1,0 +1,16 @@
+{
+  "prompt": "a futuristic city at sunset, ultra-detailed",
+  "full_prompt": "a futuristic city at sunset, ultra-detailed",
+  "negative_prompt": "lowres, blurry, bad anatomy",
+  "style": "",
+  "guidance_scale": 7.5,
+  "num_inference_steps": 30,
+  "seed": null,
+  "model_id": "runwayml/stable-diffusion-v1-5",
+  "generated_at": "2025-11-18T22:52:58.802330Z",
+  "format": "PNG",
+  "index": 1,
+  "filename": "image_01.png",
+  "path": "outputs\\20251118\\22-52-51\\image_01.png",
+  "saved_at": "2025-11-18T22:52:58.839847Z"
+}
